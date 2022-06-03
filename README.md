@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning VKU UNIVERSITY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-- Moblie Phone 📱 : 0356496977
+- Moblie Phone 📱📞 : 0356496977
 - Facebook 🎌 : https://www.facebook.com/hoanthien.ng/
  
 
