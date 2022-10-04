@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Thiennguyen21it&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiennguyen21it)](https://github.com/Thiennguyen21it/github-readme-stats)
 
 
 
