@@ -1,4 +1,4 @@
-# Hi! My name is Nguyen Hoan Thien , I'm a mobile developer 
+# Hi! My name is Thien , I'm a mobile developer 
 
 
 ## 🌐Socials
