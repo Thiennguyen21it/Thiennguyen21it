@@ -1,4 +1,5 @@
-# Hi ~ I'm Nguyen Hoan Thien 
+# Hi! My name is Nguyen Hoan Thien , I'm a mobile developer 
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoanthien.ng) 
