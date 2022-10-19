@@ -1,4 +1,4 @@
-# Hi there ! I am Thien , I'm a mobile developer 
+# Hi there ! I am Thien  
 
 
 ## 🌐Socials : [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoanthien.ng) 
