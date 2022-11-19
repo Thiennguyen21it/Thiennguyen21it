@@ -14,3 +14,21 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thiennguyen21it&icon=0&color=0)](https://visitcount.itsvg.in)
+
+name: Octo my README 
+
+on:
+  # schedule: # Run workflow automatically
+  #   - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  get_lang_gen_octo:
+    runs-on: ubuntu-latest
+    name: Get Language & Generate Ocoto-lang
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Get most used language then generate ocoto lang
+      id: octo-lang
+      uses: arndom/octo-my-readme-workflow@v1
