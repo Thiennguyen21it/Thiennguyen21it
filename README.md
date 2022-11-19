@@ -8,7 +8,7 @@
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiennguyen21it&show_icons=true&theme=cobalt)
  
-# 🚀 Most used language :
+# 🚀 Most used languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiennguyen21it&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
