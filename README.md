@@ -16,4 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=Thiennguyen21it&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-raw.githubusercontent.com/Thiennguyen21it/Thiennguyen21it/
