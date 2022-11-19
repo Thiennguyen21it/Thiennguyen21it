@@ -8,7 +8,7 @@
 - ⚡ Fun fact I love playing game and listening to music !!!
 
 # 📱 Connect with me :
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoanthien.ng)
 
 
 # 💻Tech Stack
