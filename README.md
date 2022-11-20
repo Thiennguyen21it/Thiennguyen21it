@@ -1,6 +1,6 @@
 #                                                                        Hi there 👋 ! I'm Thiện  
 
-- 🔭 I'm studying in Vietnam-korea University of of Information and Communication Technology  
+- 🔭 I'm studying in Vietnam-korea University of Information and Communication Technology  
 - 🌱 I’m currently learning everything :3 
 - 👯 I’m looking to collaborate with everyone
 - 👨‍💻 All of my projects are available [here](https://github.com/Thiennguyen21it?tab=repositories)
