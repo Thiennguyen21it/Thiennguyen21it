@@ -1,4 +1,4 @@
-#                                                                        Hi there 👋 ! I'm Thiện  
+#                                                                        Hi there! 👋  I'm Thiện  
 
 - 🔭 I'm studying in Vietnam-korea University of Information and Communication Technology  
 - 🌱 I’m currently learning everything :3 
